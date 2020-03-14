@@ -1,4 +1,4 @@
-```
+```plantuml
 @startuml
 Title Scoring record state chart
 [*] --> Outstanding: USR:Calculate
